@@ -1,44 +1,4 @@
 # MDM2-p53-AlphaFold3-Analysis
-### Nasıl Kullanılır?
-
-1. Google Colab'i aç
-2. Notebook'ları sırayla çalıştır (Step 1 → Step 2 → Step 3 → Step 4)
-3. Google Drive'a bağlan (kod otomatik yapacak)
-4. Sonuçlar Drive'a kaydedilecek
-5. Raporları indir ve ödevin sonuna ekle
-
-### Sonuçlar
-
-Her adımdan sonra şunlar kaydedilir:
-- PDB dosyaları
-- Etkileşim tabloları
-- Skorlar (pLDDT, PAE, interface score)
-- Grafikler ve görseller
-- Mutasyon etkileri
-
-### Gereken Araçlar
-
-- Google Colab (ücretsiz veya Pro)
-- Google Drive
-- GPU (L4 tavsiye)
-- High RAM (52 GB tavsiye)
-
-### Yazarlar
-
-- Öğrenci: [Adınız]
-- Hoca: Prof. Dr. Gizem Dinler Doğanay (İTÜ Moleküler Biyoloji ve Genetik)
-
-### Referanslar
-
-- PDB ID: 1YCR (MDM2-p53 kristal yapısı)
-- AlphaFold 3: DeepMind
-- BioPython: Biopython Project
-
----
-
----
-
-## English / İngilizce
 
 ### About This Project
 
