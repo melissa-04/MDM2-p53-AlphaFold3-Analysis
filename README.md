@@ -58,7 +58,7 @@ After each step, these are saved:
 
 ### Authors
 
-- Student: [Melisa Ağrı]
+- Student: Melisa Ağrı
 - Supervisor: Prof. Dr. Gizem Dinler Doğanay (Istanbul Technical University, Department of Molecular Biology and Genetics)
 
 ### References
